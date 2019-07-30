@@ -5,4 +5,6 @@ Jogo desenvolvido por hobby. É baseado no jogo Dino do Google Chrome.
 
 
 **Foto dentro do game**
+
+
 ![Personagem pulando inimigo](/imagens/fotosJogo1.png)
